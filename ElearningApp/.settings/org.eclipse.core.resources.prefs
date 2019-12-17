@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/myclass/admin/controller/AdminRoleController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/AdminUserController.java=UTF-8
+encoding//src/main/java/com/myclass/config/SwaggerConfig.java=UTF-8
+encoding//src/main/java/com/myclass/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/com/myclass/entity/Role.java=UTF-8
+encoding//src/main/java/com/myclass/repository/impl/RoleRepositoryImpl.java=UTF-8
+encoding//src/main/java/com/myclass/security/AdminSecutityConfig.java=UTF-8
+encoding//src/main/java/com/myclass/security/JWTAuthorizationFilter.java=UTF-8
+encoding//src/main/java/com/myclass/service/impl/UserDetailsServiceImpl.java=UTF-8
+encoding//src/main/java/com/myclass/validator/PasswordValidator.java=UTF-8
